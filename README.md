@@ -4,7 +4,7 @@
 * POM Structure:
 1. Pages-> Under pages the elements are located and values are passed.
 2. Test-> Test logic is done here. Read the data set from the spreadsheet(external file) and passed to the elements.
-3. Utility -> Reading and Writing to the spreadhseet
+3. Utility -> Test_data file, Reading and Writing to the spreadhseet
 4. Report -> HTML report generated is storeed here 
 5. Screenshot-> To store the screenshots taken while test runs
 * Data Driven Testing Framework:
