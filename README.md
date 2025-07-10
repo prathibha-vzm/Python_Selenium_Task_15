@@ -1,4 +1,5 @@
 * This directory contains code to test the webpage https://opensource-demo.orangehrmlive.com/web/index.php/auth/login .
+* Username and password data sets are passed to run the valid and invalid credentials.
 * Testing Architecture
 * pytest, python selenium, exception conditions
 * Framework Used - POM and Data Driven Testing Frame work 
